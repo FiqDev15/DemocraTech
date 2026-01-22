@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/CandidateDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/ResultDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Result.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/register.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Election.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Position.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/FacultyDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/view-elections.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/admin-dashboard.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/election-results.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/ElectionDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/student-dashboard.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/apply-candidate.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/manage-candidates.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/login.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Admin.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Faculty.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/election-results-student.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/VoteDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Candidate.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/manage-elections.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/model/Student.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/web/voting-page.jsp</file>
+            <file>file:/C:/Users/afiqa/OneDrive/Documents/NetBeansProjects/Democratech/DemocraTech/src/java/com/democratech/util/DBUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
